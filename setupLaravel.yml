@@ -53,7 +53,7 @@
 
     - name: Clone Repositroy into staging folder
       git:
-        repo: https://github.com/Techchhiv/I4-Laravel.git
+        repo: https://github.com/HENG-Menghy/example-app.git
         dest: /var/www/html/staging
         update: yes
         force: yes
